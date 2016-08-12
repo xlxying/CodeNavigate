@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "415F52DE1D5DB4A700917F09"
-               BuildableName = "CodeNavigate.bundle"
+               BuildableName = "CodeNavigate.xcplugin"
                BlueprintName = "CodeNavigate"
                ReferencedContainer = "container:CodeNavigate.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "415F52DE1D5DB4A700917F09"
-            BuildableName = "CodeNavigate.bundle"
+            BuildableName = "CodeNavigate.xcplugin"
             BlueprintName = "CodeNavigate"
             ReferencedContainer = "container:CodeNavigate.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "415F52DE1D5DB4A700917F09"
-            BuildableName = "CodeNavigate.bundle"
+            BuildableName = "CodeNavigate.xcplugin"
             BlueprintName = "CodeNavigate"
             ReferencedContainer = "container:CodeNavigate.xcodeproj">
          </BuildableReference>
